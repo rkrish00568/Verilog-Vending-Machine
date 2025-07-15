@@ -2,6 +2,7 @@ module vending_mach_tb;
 
     // Inputs
     reg clk;
+    reg helllo;
     reg reset;
     reg Fiverupee;
     reg Tenrupee;
